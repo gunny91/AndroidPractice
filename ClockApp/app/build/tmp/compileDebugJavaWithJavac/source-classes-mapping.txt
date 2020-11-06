@@ -1,0 +1,4 @@
+com/example/clockapp/BuildConfig.java
+ com.example.clockapp.BuildConfig
+com/example/clockapp/MainActivity.java
+ com.example.clockapp.MainActivity
